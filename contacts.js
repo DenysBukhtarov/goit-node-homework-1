@@ -23,7 +23,6 @@ async function addContact(data) {
     id: nanoid(),
     ...data,
   };
-
   contacts.push(newContact);
   await fs.writeFile(contactsPath, JSON.stringify(contacts, null, 2));
   return newContact;
