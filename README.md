@@ -115,15 +115,19 @@ invokeAction(argv);
 
 # Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
 node index.js --action="list"
+  - https://ibb.co/Lrh4cdG
 
 # Отримуємо контакт по id
 node index.js --action="get" --id 05olLMgyVQdWRwgKfg5J6
+  - https://ibb.co/D1j1Nqz
 
 # Додаємо контакт
 node index.js --action="add" --name Mango --email mango@gmail.com --phone 322-22-22
 
 # Видаляємо контакт
 node index.js --action="remove" --id qdggE76Jtbfd9eWJHrssH
+  - https://ibb.co/xFvSgMK
+
 Крок 6 - Здача домашнього завдання.
 Скріншоти виконання команд, можна залити на будь-який безкоштовний хмарний сервіс зберігання картинок (Приклад: monosnap, imgbb.com) і відповідні посилання необхідно додати в файл README.md. Створіть цей файл в корені проекту.
 
@@ -135,3 +139,5 @@ node index.js --action="remove" --id qdggE76Jtbfd9eWJHrssH
 Назва функції або методу містить дієслово
 У коді немає закоментованих ділянок коду
 Проект коректно працює з актуальною LTS-версією Node
+  
+  
