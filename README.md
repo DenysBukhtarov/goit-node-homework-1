@@ -115,6 +115,7 @@ invokeAction(argv);
 
 # Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
 node index.js --action="list"
+  https://ibb.co/Lrh4cdG
 
 # Отримуємо контакт по id
 node index.js --action="get" --id 05olLMgyVQdWRwgKfg5J6
@@ -135,3 +136,5 @@ node index.js --action="remove" --id qdggE76Jtbfd9eWJHrssH
 Назва функції або методу містить дієслово
 У коді немає закоментованих ділянок коду
 Проект коректно працює з актуальною LTS-версією Node
+  
+  
