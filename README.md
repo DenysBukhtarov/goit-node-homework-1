@@ -126,6 +126,8 @@ node index.js --action="add" --name Mango --email mango@gmail.com --phone 322-22
 
 # Видаляємо контакт
 node index.js --action="remove" --id qdggE76Jtbfd9eWJHrssH
+  - https://ibb.co/xFvSgMK
+
 Крок 6 - Здача домашнього завдання.
 Скріншоти виконання команд, можна залити на будь-який безкоштовний хмарний сервіс зберігання картинок (Приклад: monosnap, imgbb.com) і відповідні посилання необхідно додати в файл README.md. Створіть цей файл в корені проекту.
 
